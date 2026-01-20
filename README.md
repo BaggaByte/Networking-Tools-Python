@@ -18,6 +18,11 @@ By building this, I mastered:
 - How Subnet Masks act as "filters" for network traffic.
 - Python string manipulation and bitwise logic concepts.
 
+The Example of Visual of IPv4 Subnet Structure
+<p align="center">
+  <img src="Figure_1.png" alt="IPv4 Structure" width="600">
+</p>
+
 ### 💻 How to Run
 1. Ensure you have Python installed.
 2. Run the script:
