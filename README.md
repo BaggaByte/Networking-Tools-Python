@@ -19,9 +19,7 @@ By building this, I mastered:
 - Python string manipulation and bitwise logic concepts.
 
 The Example of Visual of IPv4 Subnet Structure
-<p align="center">
-  <img src="C:\Users\Lenovo\Desktop\Python Projects\Figure_1.py" alt="IPv4 Structure" width="600">
-</p>
+<img width="1000" height="200" alt="Figure_1" src="https://github.com/user-attachments/assets/8b47f9b8-bd42-44ba-929f-2262e480e99b" />
 
 ### 💻 How to Run
 1. Ensure you have Python installed.
