@@ -26,3 +26,25 @@ The Example of Visual of IPv4 Subnet Structure
 2. Run the script:
    ```bash
    python subnet_analyzer.py
+
+## 🛠 Project Spotlight: Quick Connectivity Tester
+
+The `quick_ping.py` script acts as a bridge between Python and your System Shell. It sends an **ICMP Echo Request** to a target and interprets the response.
+
+### 💻 How It Works (The Logic)
+1. **User Input:** You provide a target IP or Domain.
+2. **Platform Check:** The script detects if you are on Windows or Linux to use the correct `ping` parameters.
+3. **Hand-off:** Python sends the command to the OS Terminal.
+4. **Analysis:** The script returns a success or failure verdict based on the terminal's exit code.
+
+### 📊 Sample Output
+```console
+Enter the IP or Domain to ping: 8.8.8.8
+
+--- Checking connectivity to 8.8.8.8 ---
+Pinging 8.8.8.8 with 32 bytes of data:
+Reply from 8.8.8.8: bytes=32 time=14ms TTL=117
+
+-----------------------------------
+RESULT: [✅] 8.8.8.8 is REACHABLE
+-----------------------------------
