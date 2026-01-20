@@ -20,7 +20,7 @@ By building this, I mastered:
 
 The Example of Visual of IPv4 Subnet Structure
 <p align="center">
-  <img src="Figure_1.png" alt="IPv4 Structure" width="600">
+  <img src="C:\Users\Lenovo\Desktop\Python Projects\Figure_1.py" alt="IPv4 Structure" width="600">
 </p>
 
 ### 💻 How to Run
